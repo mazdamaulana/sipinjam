@@ -5,7 +5,7 @@
   <title>@yield('judul', 'Aplikasi Alat')</title>
 </head>
 <body>
-  <h1>Sistem Peminjaman Alat</h1>
+  <h1>Sistem Peminjaman Alat - Produksi</h1>
   <hr>
   @yield('konten')
 </body>
